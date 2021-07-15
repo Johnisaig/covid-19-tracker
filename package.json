@@ -9,12 +9,31 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.21.1",
+    "babel-plugin-styled-components": "^1.13.2",
+    "immutability-helper": "^3.1.1",
+    "moment": "^2.29.1",
     "next": "11.0.1",
+    "nodesass": "^0.0.2-security",
+    "noty": "^3.2.0-beta-deprecated",
+    "notyf": "^3.10.0",
+    "prettier": "^2.3.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-redux": "^7.2.4",
+    "react-select": "^4.3.1",
+    "redux": "^4.1.0",
+    "redux-actions": "^2.6.5",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.3.0"
   },
   "devDependencies": {
+    "@types/react": "^17.0.14",
     "eslint": "7.30.0",
-    "eslint-config-next": "11.0.1"
+    "eslint-config-next": "11.0.1",
+    "typescript": "^4.3.5"
   }
 }
